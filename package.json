@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/JonathanSch/practica-git-b42/issues"
   },
-  "homepage": "https://github.com/JonathanSch/practica-git-b42#readme"
+  "homepage": "https://github.com/JonathanSch/practica-git-b42#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
